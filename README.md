@@ -1,3 +1,3 @@
 Links
 
-- Website: https://restudio-games.github.io/Restudio-For-Educators/
+- Website: https://restudiosoftwarelaboratories.github.io/Restudio-For-Educators/
